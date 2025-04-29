@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: jaskol
+description: "jaskol - my jaskell theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
